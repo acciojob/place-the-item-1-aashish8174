@@ -1,2 +1,11 @@
+.box{
+	height:100px;
+	width:100px;
+	font-size:50px
+}
+#container{
+	display:flex;
+	justify-content:space-between;
+}
 
 /* Your CSS Code here. */
